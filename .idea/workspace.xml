@@ -19,9 +19,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ppoloczek/Programing/CodeCool/4_advanced/4-1_unit-1/dev-spring-boot/02-spring-boot-spring-core/02-01-constructor-injection",
+    "last_opened_file_path": "D:/ppoloczek/Programing/CodeCool/3_oop/3-1_unit-1/polish-draughts-java-piotrpoloczek",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -36,6 +37,8 @@
       <updated>1684298170794</updated>
       <workItem from="1684298171771" duration="44000" />
       <workItem from="1684298531136" duration="15000" />
+      <workItem from="1684530061102" duration="51000" />
+      <workItem from="1684567716415" duration="25000" />
     </task>
     <servers />
   </component>
