@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f6fe8e8-30b9-4814-aa17-2f000f4868a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8f6fe8e8-30b9-4814-aa17-2f000f4868a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +23,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ppoloczek/Programing/CodeCool/3_oop/3-1_unit-1/polish-draughts-java-piotrpoloczek",
+    "last_opened_file_path": "D:/ppoloczek/Programing/CodeCool/4_advanced/4-1_unit-1/dev-spring-boot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,6 +44,7 @@
       <workItem from="1684298531136" duration="15000" />
       <workItem from="1684530061102" duration="51000" />
       <workItem from="1684567716415" duration="25000" />
+      <workItem from="1685882840857" duration="632000" />
     </task>
     <servers />
   </component>
